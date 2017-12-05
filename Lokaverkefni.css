@@ -1,8 +1,30 @@
 body {
-  background-image: url("bo3mynd.jpg");
+
 }
 
-
 .nafn1{
-color:white;
+	color:white;
+	font-family: "arial black", "arial bold" ,  Gadget, sans-serif;
+	justify-content: center;
+	text-align: center;
+}
+.bakgrunnur{
+	background-color: rgba(255,0,0,0.5);
+	display:flex;
+	justify-content: center;
+    text-align: center;
+    margin:20px;
+    padding:100px;
+    border-radius:20px;
+    margin-left:200px;
+    margin-right:200px;
+    font-size:30px;
+}
+.nafn2{
+	color:orange;
+	font-size: 50px;
+	justify-content: center;
+	text-align: center;
+	font-family: "arial black", "arial bold" ,  Gadget, sans-serif;
+
 }
